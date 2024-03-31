@@ -1,0 +1,10 @@
+form {
+    padding: 100px;
+    text-align: center;
+    font-size: large;
+    height: 100vh;
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+}
+.color {
+    margin: 10px;
+}

@@ -1,0 +1,23 @@
+.Color {
+    text-align: center;
+
+}
+
+.welcomeMsg {
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin-bottom: 0;
+}
+
+.addColor {
+    padding-bottom: 40px;
+    background-color: black;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.colors {
+    padding: 5px;
+    font-size: large;
+}

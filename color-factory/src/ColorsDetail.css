@@ -1,0 +1,15 @@
+.ColorDetail {
+    height: 100vh;
+    text-align: center;
+}
+
+.colorH1 {
+    font-size: 60px;
+    padding: 40px;
+    margin: 0;
+}
+
+.return {
+    font-size: 40px;
+    padding: 40px;
+}
